@@ -1,18 +1,17 @@
-# Kaixo 皆さん! 
-#### Thank you for coming by to my nerdy corner! <img alt="Love you gif" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="48" />
+# kaixo iedereen! 
+#### thank you for coming by to my nerdy corner! <img alt="Love you gif" src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="48" />
 
-I'm Izadi (イサディ if it helps, it means nature :seedling:) an Android Engineer working in Tokyo! I'm from the [Basque Country](https://en.wikipedia.org/wiki/Basque_Country_(greater_region)) and in Japan since 2019.
+i'm izadi, イサディ / 吉颯迪 if it helps, it means nature in basque :seedling:. i'm a [basque](https://en.wikipedia.org/wiki/Basque_Country_(greater_region)) android engineer working in the netherlands! i came here in 2023 after four years in tokyo.
 
-<img alt="Gif of a cute shiba" src="https://data.whicdn.com/images/254520507/original.gif" width="128" /> 
+<video alt="cute shiba" src="https://github.com/izadiegizabal/izadiegizabal/assets/10365266/e09a75b7-7a2c-4b17-8ee2-86b15a8cf2b0" width="128" />
 
-I'm also obsessed with Shiba-Inu, yes, equally important.
-
+i'm also obsessed with shibas, yes, equally important.
 
 
 ## ☕ How to reach me
 :flamingo: @ me on [Twitter](https://twitter.com/izadiegizabal) or [Telegram](https://t.me/izadiegizabal)\
-:keyboard: Visit my personal [website](https://izadi.xyz)\
-:camera_flash: Continue stalking me over [Instagram](https://www.instagram.com/izadiegizabal), I love photography!
+:keyboard: visit my personal [website](https://izadi.xyz)\
+:camera_flash: continue stalking me over [Instagram](https://www.instagram.com/izadiegizabal), i love photography!
 
 <!--
 **izadiegizabal/izadiegizabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
